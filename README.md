@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SeverusHO
 - 👀 I’m interested in building my imagination via code
-- 🌱 I’m currently learning python & javascript
-- 💞️ I’m looking to collaborate on projects that are opening to teaching, with live production at the end of the course, particulary projects around virtual reality, AI,and gaming
-- 📫 Reach me via email: severusho@gmail.com
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on projects that are opening to teaching, with live production at the end of the course, particulary projects around virtual reality, AI, and gaming
 
 <!---
 SeverusHO/SeverusHO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
